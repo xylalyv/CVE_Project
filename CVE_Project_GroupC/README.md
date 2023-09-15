@@ -57,4 +57,4 @@ CVE_Project_GroupC is a Python script designed to fetch information about a Comm
 > **NOTE**: Ensure you have an active internet connection to fetch data from online sources.
 <br><br>
 
-![Alt Text](https://www.cleanpng.com/png-emoticon-smiley-emoji-computer-icons-clip-art-stud-562675)
+![Alt Text](kisspng-emoticon-smiley-emoji-computer-icons-clip-art-study-help-cliparts-5aaa8e9413d313.1662530515211270600812.png)
